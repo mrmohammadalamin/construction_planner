@@ -1,0 +1,8 @@
+# This file lists all the Python dependencies for your FastAPI backend.
+# Ensure you install these in your virtual environment.
+fastapi
+uvicorn
+google-adk # This is the correct package name for Google's ADK
+google-cloud-aiplatform
+google-auth
+python-dotenv
